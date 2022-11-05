@@ -6,4 +6,4 @@
 - FACEBOOK : taha elkhalil
 
 
-https://badge.mediaplus.ma/water/taelkhal
+[![taelkhal's 42 stats](https://badge.mediaplus.ma/water/taelkhal)](https://github.com/oakoudad/badge42)
